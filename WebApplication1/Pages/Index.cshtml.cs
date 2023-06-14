@@ -5,7 +5,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-// changement 2
+<<<<<<< HEAD
+
+=======
+// changement 1
+>>>>>>> parent of 73e826a (Update 2 Index.cshtml.cs)
 namespace WebApplication1.Pages
 {
     public class IndexModel : PageModel
